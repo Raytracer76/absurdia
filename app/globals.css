@@ -2,4 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Ajoute ici tes styles globaux personnalisés si besoin */
+/* Thème dark global : fond noir, texte blanc */
+body {
+  background: #000 !important;
+  color: #fff !important;
+}

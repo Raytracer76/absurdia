@@ -1,5 +1,5 @@
 // app/layout.tsx
-import './globals.css'; // ou ton fichier global CSS si tu en as un
+import './globals.css';
 import { Analytics } from '@vercel/analytics/react';
 import type { Metadata } from 'next';
 
@@ -14,12 +14,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="fr">
-      <body>
+    <html lang="fr" className="dark">
+      <body className="bg-neutral-900 text-white min-h-screen">
         {children}
         <Analytics />
       </body>
     </html>
   );
 }
-
