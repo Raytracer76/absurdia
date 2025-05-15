@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="p-8 text-white">
       <h1 className="text-2xl font-bold mb-4">Bienvenue sur Absurdia.ai</h1>
-      <p className="mb-6">Explorez nos idées absurdes, inutiles et pourtant monétisables :</p>
+      <p className="mb-6">Explorez nos idées absurdes et inutiles :</p>
 
       <ul className="space-y-3">
         {ideas.map((idea) => (
