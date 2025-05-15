@@ -1,5 +1,5 @@
 // app/layout.tsx
-//import './globals.css'; // ou ton fichier global CSS si tu en as un
+import './globals.css'; // ou ton fichier global CSS si tu en as un
 import { Analytics } from '@vercel/analytics/react';
 import type { Metadata } from 'next';
 
