@@ -2,8 +2,8 @@
   {
     "idea_id": "SPARK-auto_absurd_vgdlq72e",
     "nom_idee": "SonnetWeather",
-    "pitch_rapide": "Recevez des prévisions météorologiques dramatiques et poétiques directement dans votre boîte mail, avec un accès exclusif à des contenus littéraires.",
-    "explication_detaillee": "Chaque jour, un sonnet unique est généré à partir des données météo de votre ville, puis envoyé automatiquement par email. Le service est proposé par abonnement et ne nécessite aucune gestion humaine. Les meilleurs poèmes sont compilés en livre ou proposés sur mugs/posters via impression à la demande.",
+    "pitch_rapide": "Des prévisions météorologiques dramatiques et poétiques, avec un accès exclusif à des contenus littéraires.",
+    "explication_detaillee": "SonnetWeather vous permet de générer un sonnet poétique à partir de la météo actuelle de votre ville. L’utilisateur entre une ville ou autorise sa géolocalisation, choisit une langue, et reçoit immédiatement un poème généré par IA, basé sur les conditions climatiques locales. Le service est interactif, gratuit et sans création de compte. Il n’y a pas d’email, pas d’inscription, juste un instant de poésie météorologique.",
     "domaine": "Weather/Literature",
     "tags": "poetry, weather, absurdism, drama",
     "origin": "AbsurdityForgeAI",
